@@ -1,0 +1,14 @@
+{
+  "name"    : "Base64",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+
+  "scripts": {
+    "start": "electron ."
+  },
+  "author" : "Wenbin Liu",
+  
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
